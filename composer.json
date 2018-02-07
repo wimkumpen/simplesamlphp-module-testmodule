@@ -1,5 +1,5 @@
 {
-    "name": "wimkumpen/simplesaml_my_module",
+    "name": "wimkumpen/simplesamlphp-module-testmodule",
     "description": "A My Saml Module",
     "type": "simplesamlphp-module",
     "keywords": [ "SimpleSAMLphp", "Auth MemCookie", "apache", "cookies"],
