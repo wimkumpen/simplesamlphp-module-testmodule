@@ -13,9 +13,5 @@
     ],
     "require": {
         "simplesamlphp/composer-module-installer": ">=1.1.3"
-    },
-    "support": {
-        "issues": "https://github.com/simplesamlphp/simplesamlphp-module-memcookie/issues",
-        "source": "https://github.com/simplesamlphp/simplesamlphp-module-memcookie/"
     }
 }
