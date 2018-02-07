@@ -1,0 +1,21 @@
+{
+    "name": "wimkumpen/simplesaml_my_module",
+    "description": "A My Saml Module",
+    "type": "simplesamlphp-module",
+    "keywords": [ "SimpleSAMLphp", "Auth MemCookie", "apache", "cookies"],
+    "homepage": "https://simplesamlphp.org/",
+    "license": "LGPL-2.1",
+    "authors": [
+        {
+            "name": "Wim Kumpen",
+            "email": "info@wimkumpen.be"
+        }
+    ],
+    "require": {
+        "simplesamlphp/composer-module-installer": ">=1.1.3"
+    },
+    "support": {
+        "issues": "https://github.com/simplesamlphp/simplesamlphp-module-memcookie/issues",
+        "source": "https://github.com/simplesamlphp/simplesamlphp-module-memcookie/"
+    }
+}
